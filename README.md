@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Rafael Stanck,
 
 - 🔭 Trabalho como Técnico de Computadores e Notebooks
-- ⚡ Estudando Desenvolvimento Back-End (Python)
+- ⚡ Estudando Análise e Desenvolvimento de Sistemas
 - 👯 Estou procurando uma oportunidade como desenvolvedor Back-End Jr.
 
 <div align="center">
