@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Rafael Stanck,
 
 - 🔭 Trabalho como Técnico de Computadores e Notebooks
-- ⚡ Estudando Análise e Desenvolvimento de Sistemas
+- ⚡ Cursando Análise e Desenvolvimento de Sistemas
 - 👯 Estou procurando uma oportunidade para estágio de Desenvolvedor de Sistemas.
 
 <div align="center">
