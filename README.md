@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como Técnico de Computadores e Notebooks
 - ⚡ Estudando Análise e Desenvolvimento de Sistemas
-- 👯 Estou procurando uma oportunidade como desenvolvedor Back-End Jr.
+- 👯 Estou procurando uma oportunidade de estágio Desenvolvedor de Sistemas.
 
 <div align="center">
   <a href="https://github.com/rafaelstanck">
